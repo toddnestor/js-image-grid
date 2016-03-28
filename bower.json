@@ -1,10 +1,10 @@
 {
-  "name": "image-tiles",
-  "version": "",
-  "dependencies": {},
-  "devDependencies": {
+  "name": "js-image-tiles",
+  "version": "1.3.0",
+  "dependencies": {
     "qunit": "~1.12.0",
     "jquery": "latest",
     "bootstrap": "~3.3.1"
-  }
+  },
+  "devDependencies": {}
 }
