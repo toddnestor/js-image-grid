@@ -6,5 +6,9 @@
     "jquery": "latest",
     "bootstrap": "~3.3.1"
   },
+  "main": [
+    "src/image-grid.js",
+    "src/css/image-grid.css"
+  ],
   "devDependencies": {}
 }
